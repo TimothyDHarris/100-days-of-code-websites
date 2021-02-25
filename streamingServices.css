@@ -28,3 +28,9 @@ h1 {
     padding-top: 1.2em;
     font-family: 'PT Sans', sans-serif;
 }
+
+p {
+    text-align: center;
+    color: white;
+    padding-bottom: 3%;
+}
