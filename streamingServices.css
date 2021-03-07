@@ -1,40 +1,42 @@
 ul {
-    list-style-type: none;
-    text-indent: -2em;
-    padding-top: 4em;
+  list-style-type: none;
+  text-indent: -2em;
+  padding-top: 4em;
 }
 
 .three-items {
-    padding-top: 2.5em;
+  padding-top: 2.5em;
 }
 
-.header { 
-    position: sticky; 
-    top:0; 
-} 
+.header {
+  position: sticky;
+  top: 0;
+}
 
 .table-div {
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-top: 3%;
-    padding-bottom: 8%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 3%;
+  padding-bottom: 8%;
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
+  padding: 0px;
+  margin: 0px;
 }
 
 h1 {
-    padding-top: 1.2em;
-    font-family: 'PT Sans', sans-serif;
+  padding-top: 1.2em;
+  font-family: "PT Sans", sans-serif;
 }
 
 p {
-    text-align: center;
-    color: white;
-    padding-bottom: 3%;
+  text-align: center;
+  color: white;
+  padding-bottom: 3%;
 }
 
 .white-link {
-    color: white;
+  color: white;
 }
