@@ -17,7 +17,7 @@ ul {
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 3%;
-    padding-bottom: 10%;
+    padding-bottom: 8%;
 }
 
 body {
@@ -27,4 +27,14 @@ body {
 h1 {
     padding-top: 1.2em;
     font-family: 'PT Sans', sans-serif;
+}
+
+p {
+    text-align: center;
+    color: white;
+    padding-bottom: 3%;
+}
+
+.white-link {
+    color: white;
 }
